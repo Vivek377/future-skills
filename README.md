@@ -2,23 +2,38 @@
 
 ## Installation
 
-1. **Clone the repository:**
+**Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/help-center-cards-app.git
-    cd help-center-cards-app
+    git clone https://github.com/Vivek377/future-skills.git
     ```
 
-2. **Move in to frontend folder**
+
+**To run frontend of the app**
     ```bash
     cd frontend
     ```
 
-3. **Install the dependencies:**
+**Install the dependencies:**
     ```bash
     npm install
     ```
 
-4. **Run the app**
+**Run the app**
+   ```bash
+   npm run dev
+   ```
+
+**To run backend of the app**
+    ```bash
+    cd frontend
+    ```
+
+**Install the dependencies:**
+    ```bash
+    npm install
+    ```
+
+**Run the app**
    ```bash
    npm run dev
    ```
